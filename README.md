@@ -2,5 +2,8 @@
 
 This repository is:
 
-  *an introduction to coding
+  *an introduction to coding 
+  *really cool
+  *mine
+  
   
